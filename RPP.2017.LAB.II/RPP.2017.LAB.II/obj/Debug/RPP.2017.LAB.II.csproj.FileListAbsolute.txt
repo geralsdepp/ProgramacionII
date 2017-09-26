@@ -1,0 +1,6 @@
+E:\UTN\Programación.2017\C#\RPP.2017.LAB.II\RPP.2017.LAB.II\bin\Debug\RPP.2017.LAB.II.exe.config
+E:\UTN\Programación.2017\C#\RPP.2017.LAB.II\RPP.2017.LAB.II\obj\Debug\RPP.2017.LAB.II.csprojResolveAssemblyReference.cache
+E:\UTN\Programación.2017\C#\RPP.2017.LAB.II\RPP.2017.LAB.II\bin\Debug\RPP.2017.LAB.II.exe
+E:\UTN\Programación.2017\C#\RPP.2017.LAB.II\RPP.2017.LAB.II\bin\Debug\RPP.2017.LAB.II.pdb
+E:\UTN\Programación.2017\C#\RPP.2017.LAB.II\RPP.2017.LAB.II\obj\Debug\RPP.2017.LAB.II.exe
+E:\UTN\Programación.2017\C#\RPP.2017.LAB.II\RPP.2017.LAB.II\obj\Debug\RPP.2017.LAB.II.pdb
