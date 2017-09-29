@@ -1,0 +1,13 @@
+E:\UTN\Programación.2017\C#\Ejercicio37\Ejercicio37\bin\Debug\Ejercicio37.exe.config
+F:\UTN\Programación.2017\C#\Ejercicio37\Ejercicio37\bin\Debug\Ejercicio37.exe.config
+F:\UTN\Programación.2017\C#\Ejercicio37\Ejercicio37\bin\Debug\Ejercicio37.exe
+F:\UTN\Programación.2017\C#\Ejercicio37\Ejercicio37\bin\Debug\Ejercicio37.pdb
+F:\UTN\Programación.2017\C#\Ejercicio37\Ejercicio37\obj\Debug\CentralitaHerencia.csprojResolveAssemblyReference.cache
+F:\UTN\Programación.2017\C#\Ejercicio37\Ejercicio37\obj\Debug\Ejercicio37.exe
+F:\UTN\Programación.2017\C#\Ejercicio37\Ejercicio37\obj\Debug\Ejercicio37.pdb
+E:\UTN\Programación.2017\C#\Ejercicio40\Ejercicio37\bin\Debug\Ejercicio37.exe.config
+E:\UTN\Programación.2017\C#\Ejercicio40\Ejercicio37\obj\Debug\Ejercicio37.exe
+E:\UTN\Programación.2017\C#\Ejercicio40\Ejercicio37\obj\Debug\Ejercicio37.pdb
+E:\UTN\Programación.2017\C#\Ejercicio40\Ejercicio37\obj\Debug\CentralitaHerencia.csprojResolveAssemblyReference.cache
+E:\UTN\Programación.2017\C#\Ejercicio40\Ejercicio37\bin\Debug\Ejercicio37.exe
+E:\UTN\Programación.2017\C#\Ejercicio40\Ejercicio37\bin\Debug\Ejercicio37.pdb
