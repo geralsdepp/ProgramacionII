@@ -88,9 +88,10 @@ namespace Entidades_2017
         /// <returns></returns>
         public static Changuito operator +(Changuito c, Producto p)
         {
-            if (c._productos.Contains(p) == false)
+            if (c._productos.Contains(p) == false && c._productos.Count < 5)
             {
                 c._productos.Add(p);
+                
             }
             return c;
         }

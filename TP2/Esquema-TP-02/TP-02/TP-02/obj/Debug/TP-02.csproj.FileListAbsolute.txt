@@ -25,3 +25,11 @@ D:\Mis Cosas\Mis documentos\TP2\Esquema-TP-02\TP-02\TP-02\bin\Debug\TP-02.pdb
 D:\Mis Cosas\Mis documentos\TP2\Esquema-TP-02\TP-02\TP-02\bin\Debug\Entidades.dll
 D:\Mis Cosas\Mis documentos\TP2\Esquema-TP-02\TP-02\TP-02\bin\Debug\Entidades.pdb
 D:\Mis Cosas\Mis documentos\TP2\Esquema-TP-02\TP-02\TP-02\obj\Debug\TP-02.csprojResolveAssemblyReference.cache
+F:\UTN\Programación.2017\C#\TPS\TP2\Esquema-TP-02\TP-02\TP-02\bin\Debug\TP-02.exe.config
+F:\UTN\Programación.2017\C#\TPS\TP2\Esquema-TP-02\TP-02\TP-02\bin\Debug\TP-02.exe
+F:\UTN\Programación.2017\C#\TPS\TP2\Esquema-TP-02\TP-02\TP-02\bin\Debug\TP-02.pdb
+F:\UTN\Programación.2017\C#\TPS\TP2\Esquema-TP-02\TP-02\TP-02\bin\Debug\Entidades.dll
+F:\UTN\Programación.2017\C#\TPS\TP2\Esquema-TP-02\TP-02\TP-02\bin\Debug\Entidades.pdb
+F:\UTN\Programación.2017\C#\TPS\TP2\Esquema-TP-02\TP-02\TP-02\obj\Debug\TP-02.csprojResolveAssemblyReference.cache
+F:\UTN\Programación.2017\C#\TPS\TP2\Esquema-TP-02\TP-02\TP-02\obj\Debug\TP-02.exe
+F:\UTN\Programación.2017\C#\TPS\TP2\Esquema-TP-02\TP-02\TP-02\obj\Debug\TP-02.pdb

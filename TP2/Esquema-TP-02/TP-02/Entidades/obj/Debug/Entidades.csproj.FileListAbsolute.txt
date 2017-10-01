@@ -13,3 +13,8 @@ D:\Mis Cosas\Mis documentos\TP2\Esquema-TP-02\TP-02\Entidades\bin\Debug\Entidade
 D:\Mis Cosas\Mis documentos\TP2\Esquema-TP-02\TP-02\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
 D:\Mis Cosas\Mis documentos\TP2\Esquema-TP-02\TP-02\Entidades\obj\Debug\Entidades.dll
 D:\Mis Cosas\Mis documentos\TP2\Esquema-TP-02\TP-02\Entidades\obj\Debug\Entidades.pdb
+F:\UTN\Programación.2017\C#\TPS\TP2\Esquema-TP-02\TP-02\Entidades\bin\Debug\Entidades.dll
+F:\UTN\Programación.2017\C#\TPS\TP2\Esquema-TP-02\TP-02\Entidades\bin\Debug\Entidades.pdb
+F:\UTN\Programación.2017\C#\TPS\TP2\Esquema-TP-02\TP-02\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+F:\UTN\Programación.2017\C#\TPS\TP2\Esquema-TP-02\TP-02\Entidades\obj\Debug\Entidades.dll
+F:\UTN\Programación.2017\C#\TPS\TP2\Esquema-TP-02\TP-02\Entidades\obj\Debug\Entidades.pdb
