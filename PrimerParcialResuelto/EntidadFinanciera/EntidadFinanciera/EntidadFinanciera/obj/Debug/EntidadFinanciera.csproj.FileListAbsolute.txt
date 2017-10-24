@@ -1,0 +1,5 @@
+C:\Users\Ale\Documents\Geral\EntidadFinanciera\EntidadFinanciera\EntidadFinanciera\bin\Debug\EntidadFinanciera.dll
+C:\Users\Ale\Documents\Geral\EntidadFinanciera\EntidadFinanciera\EntidadFinanciera\bin\Debug\EntidadFinanciera.pdb
+C:\Users\Ale\Documents\Geral\EntidadFinanciera\EntidadFinanciera\EntidadFinanciera\obj\Debug\EntidadFinanciera.dll
+C:\Users\Ale\Documents\Geral\EntidadFinanciera\EntidadFinanciera\EntidadFinanciera\obj\Debug\EntidadFinanciera.pdb
+C:\Users\Ale\Documents\Geral\EntidadFinanciera\EntidadFinanciera\EntidadFinanciera\obj\Debug\EntidadFinanciera.csprojResolveAssemblyReference.cache

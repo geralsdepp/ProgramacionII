@@ -1,0 +1,2 @@
+C:\Users\Geral\Documents\Proyectos\Meza.Geraldine.2C\Meza.Geraldine.2C\bin\Debug\Meza.Geraldine.2C.exe.config
+C:\Users\Ale\Documents\Geral\Meza.Geraldine.2C\Meza.Geraldine.2C\Meza.Geraldine.2C\obj\Debug\Meza.Geraldine.2C.csprojResolveAssemblyReference.cache
