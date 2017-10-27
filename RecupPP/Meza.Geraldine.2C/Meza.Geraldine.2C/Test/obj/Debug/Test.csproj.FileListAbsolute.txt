@@ -1,0 +1,53 @@
+D:\Federico\VB .Net\Visual C#\utn\Examenes\20171026-RPP\Test\bin\Debug\Test.exe.config
+D:\Federico\VB .Net\Visual C#\utn\Examenes\20171026-RPP\Test\bin\Debug\Test.exe
+D:\Federico\VB .Net\Visual C#\utn\Examenes\20171026-RPP\Test\bin\Debug\Test.pdb
+D:\Federico\VB .Net\Visual C#\utn\Examenes\20171026-RPP\Test\bin\Debug\Entidades.dll
+D:\Federico\VB .Net\Visual C#\utn\Examenes\20171026-RPP\Test\bin\Debug\Entidades.pdb
+D:\Federico\VB .Net\Visual C#\utn\Examenes\20171026-RPP\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+D:\Federico\VB .Net\Visual C#\utn\Examenes\20171026-RPP\Test\obj\Debug\Test.FrmLector.resources
+D:\Federico\VB .Net\Visual C#\utn\Examenes\20171026-RPP\Test\obj\Debug\Test.Properties.Resources.resources
+D:\Federico\VB .Net\Visual C#\utn\Examenes\20171026-RPP\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+D:\Federico\VB .Net\Visual C#\utn\Examenes\20171026-RPP\Test\obj\Debug\Test.exe
+D:\Federico\VB .Net\Visual C#\utn\Examenes\20171026-RPP\Test\obj\Debug\Test.pdb
+D:\Federico\VB .Net\Visual C#\utn\Examenes\20171026-RPP - alumno\Test\bin\Debug\Test.exe.config
+D:\Federico\VB .Net\Visual C#\utn\Examenes\20171026-RPP - alumno\Test\obj\Debug\Test.exe
+D:\Federico\VB .Net\Visual C#\utn\Examenes\20171026-RPP - alumno\Test\obj\Debug\Test.pdb
+C:\Users\alumno\Desktop\20171026-RPP-alumno\Meza.Geraldine.2C\Test\bin\Debug\Test.exe.config
+C:\Users\alumno\Desktop\20171026-RPP-alumno\Meza.Geraldine.2C\Test\obj\Debug\Test.exe
+C:\Users\alumno\Desktop\20171026-RPP-alumno\Meza.Geraldine.2C\Test\obj\Debug\Test.pdb
+C:\Users\alumno\Desktop\20171026-RPP-alumno\Meza.Geraldine.2C\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\20171026-RPP-alumno\Meza.Geraldine.2C\Test\obj\Debug\Test.FrmLector.resources
+C:\Users\alumno\Desktop\20171026-RPP-alumno\Meza.Geraldine.2C\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\alumno\Desktop\20171026-RPP-alumno\Meza.Geraldine.2C\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+C:\Users\alumno\Desktop\20171026-RPP-alumno\Meza.Geraldine.2C\Test\bin\Debug\Test.exe
+C:\Users\alumno\Desktop\20171026-RPP-alumno\Meza.Geraldine.2C\Test\bin\Debug\Test.pdb
+C:\Users\alumno\Desktop\20171026-RPP-alumno\Meza.Geraldine.2C\Test\bin\Debug\EntidadesBiblioteca.dll
+C:\Users\alumno\Desktop\20171026-RPP-alumno\Meza.Geraldine.2C\Test\bin\Debug\EntidadLibro.dll
+C:\Users\alumno\Desktop\20171026-RPP-alumno\Meza.Geraldine.2C\Test\bin\Debug\EntidadesBiblioteca.pdb
+C:\Users\alumno\Desktop\20171026-RPP-alumno\Meza.Geraldine.2C\Test\bin\Debug\EntidadLibro.pdb
+C:\Users\alumno\Desktop\Meza.Geraldine.2C\Meza.Geraldine.2C\Test\bin\Debug\Test.exe.config
+C:\Users\alumno\Desktop\Meza.Geraldine.2C\Meza.Geraldine.2C\Test\obj\Debug\Test.exe
+C:\Users\alumno\Desktop\Meza.Geraldine.2C\Meza.Geraldine.2C\Test\obj\Debug\Test.pdb
+C:\Users\alumno\Desktop\Meza.Geraldine.2C\Meza.Geraldine.2C\Test\bin\Debug\Test.exe
+C:\Users\alumno\Desktop\Meza.Geraldine.2C\Meza.Geraldine.2C\Test\bin\Debug\Test.pdb
+C:\Users\alumno\Desktop\Meza.Geraldine.2C\Meza.Geraldine.2C\Test\bin\Debug\EntidadesBiblioteca.dll
+C:\Users\alumno\Desktop\Meza.Geraldine.2C\Meza.Geraldine.2C\Test\bin\Debug\EntidadLibro.dll
+C:\Users\alumno\Desktop\Meza.Geraldine.2C\Meza.Geraldine.2C\Test\bin\Debug\EntidadesBiblioteca.pdb
+C:\Users\alumno\Desktop\Meza.Geraldine.2C\Meza.Geraldine.2C\Test\bin\Debug\EntidadLibro.pdb
+C:\Users\alumno\Desktop\Meza.Geraldine.2C\Meza.Geraldine.2C\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\Meza.Geraldine.2C\Meza.Geraldine.2C\Test\obj\Debug\Test.FrmLector.resources
+C:\Users\alumno\Desktop\Meza.Geraldine.2C\Meza.Geraldine.2C\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\alumno\Desktop\Meza.Geraldine.2C\Meza.Geraldine.2C\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+J:\Meza.Geraldine.2C\Meza.Geraldine.2C\Meza.Geraldine.2C\Test\bin\Debug\Test.exe.config
+J:\Meza.Geraldine.2C\Meza.Geraldine.2C\Meza.Geraldine.2C\Test\obj\Debug\Test.exe
+J:\Meza.Geraldine.2C\Meza.Geraldine.2C\Meza.Geraldine.2C\Test\obj\Debug\Test.pdb
+J:\Meza.Geraldine.2C\Meza.Geraldine.2C\Meza.Geraldine.2C\Test\bin\Debug\Test.exe
+J:\Meza.Geraldine.2C\Meza.Geraldine.2C\Meza.Geraldine.2C\Test\bin\Debug\Test.pdb
+J:\Meza.Geraldine.2C\Meza.Geraldine.2C\Meza.Geraldine.2C\Test\bin\Debug\EntidadesBiblioteca.dll
+J:\Meza.Geraldine.2C\Meza.Geraldine.2C\Meza.Geraldine.2C\Test\bin\Debug\EntidadLibro.dll
+J:\Meza.Geraldine.2C\Meza.Geraldine.2C\Meza.Geraldine.2C\Test\bin\Debug\EntidadesBiblioteca.pdb
+J:\Meza.Geraldine.2C\Meza.Geraldine.2C\Meza.Geraldine.2C\Test\bin\Debug\EntidadLibro.pdb
+J:\Meza.Geraldine.2C\Meza.Geraldine.2C\Meza.Geraldine.2C\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+J:\Meza.Geraldine.2C\Meza.Geraldine.2C\Meza.Geraldine.2C\Test\obj\Debug\Test.FrmLector.resources
+J:\Meza.Geraldine.2C\Meza.Geraldine.2C\Meza.Geraldine.2C\Test\obj\Debug\Test.Properties.Resources.resources
+J:\Meza.Geraldine.2C\Meza.Geraldine.2C\Meza.Geraldine.2C\Test\obj\Debug\Test.csproj.GenerateResource.Cache

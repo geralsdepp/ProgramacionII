@@ -1,0 +1,10 @@
+C:\Users\alumno\Desktop\20171026-RPP-alumno\Meza.Geraldine.2C\EntidadLibro\obj\Debug\EntidadesLibro.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\20171026-RPP-alumno\Meza.Geraldine.2C\EntidadLibro\bin\Debug\EntidadLibro.dll
+C:\Users\alumno\Desktop\20171026-RPP-alumno\Meza.Geraldine.2C\EntidadLibro\bin\Debug\EntidadLibro.pdb
+C:\Users\alumno\Desktop\20171026-RPP-alumno\Meza.Geraldine.2C\EntidadLibro\obj\Debug\EntidadLibro.dll
+C:\Users\alumno\Desktop\20171026-RPP-alumno\Meza.Geraldine.2C\EntidadLibro\obj\Debug\EntidadLibro.pdb
+J:\Meza.Geraldine.2C\Meza.Geraldine.2C\Meza.Geraldine.2C\EntidadLibro\bin\Debug\EntidadLibro.dll
+J:\Meza.Geraldine.2C\Meza.Geraldine.2C\Meza.Geraldine.2C\EntidadLibro\bin\Debug\EntidadLibro.pdb
+J:\Meza.Geraldine.2C\Meza.Geraldine.2C\Meza.Geraldine.2C\EntidadLibro\obj\Debug\EntidadesLibro.csprojResolveAssemblyReference.cache
+J:\Meza.Geraldine.2C\Meza.Geraldine.2C\Meza.Geraldine.2C\EntidadLibro\obj\Debug\EntidadLibro.dll
+J:\Meza.Geraldine.2C\Meza.Geraldine.2C\Meza.Geraldine.2C\EntidadLibro\obj\Debug\EntidadLibro.pdb
