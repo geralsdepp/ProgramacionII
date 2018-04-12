@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio20", "Ejercicio20\Ejercicio20.csproj", "{2D47E57F-F801-43F3-9D6D-1510BD391B18}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Billetes", "Entidades\Billetes.csproj", "{4A7E0CAB-6FB8-45A2-826D-12BB84000E88}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D47E57F-F801-43F3-9D6D-1510BD391B18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D47E57F-F801-43F3-9D6D-1510BD391B18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D47E57F-F801-43F3-9D6D-1510BD391B18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D47E57F-F801-43F3-9D6D-1510BD391B18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A7E0CAB-6FB8-45A2-826D-12BB84000E88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A7E0CAB-6FB8-45A2-826D-12BB84000E88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A7E0CAB-6FB8-45A2-826D-12BB84000E88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A7E0CAB-6FB8-45A2-826D-12BB84000E88}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
