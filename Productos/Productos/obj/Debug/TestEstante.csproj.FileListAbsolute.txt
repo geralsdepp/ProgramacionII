@@ -1,0 +1,8 @@
+J:\UTN\Programacion.2018\ModelosParcial\Productos\Productos\bin\Debug\Productos.exe.config
+J:\UTN\Programacion.2018\ModelosParcial\Productos\Productos\bin\Debug\Productos.exe
+J:\UTN\Programacion.2018\ModelosParcial\Productos\Productos\bin\Debug\Productos.pdb
+J:\UTN\Programacion.2018\ModelosParcial\Productos\Productos\bin\Debug\Entidades.dll
+J:\UTN\Programacion.2018\ModelosParcial\Productos\Productos\bin\Debug\Entidades.pdb
+J:\UTN\Programacion.2018\ModelosParcial\Productos\Productos\obj\Debug\TestEstante.csprojResolveAssemblyReference.cache
+J:\UTN\Programacion.2018\ModelosParcial\Productos\Productos\obj\Debug\Productos.exe
+J:\UTN\Programacion.2018\ModelosParcial\Productos\Productos\obj\Debug\Productos.pdb

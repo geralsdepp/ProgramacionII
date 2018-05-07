@@ -1,0 +1,5 @@
+J:\UTN\Programacion.2018\ModelosParcial\Productos\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+J:\UTN\Programacion.2018\ModelosParcial\Productos\Entidades\bin\Debug\Entidades.dll
+J:\UTN\Programacion.2018\ModelosParcial\Productos\Entidades\bin\Debug\Entidades.pdb
+J:\UTN\Programacion.2018\ModelosParcial\Productos\Entidades\obj\Debug\Entidades.dll
+J:\UTN\Programacion.2018\ModelosParcial\Productos\Entidades\obj\Debug\Entidades.pdb

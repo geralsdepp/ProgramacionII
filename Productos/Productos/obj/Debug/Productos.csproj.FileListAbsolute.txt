@@ -1,0 +1,2 @@
+D:\VisualStudio\Productos\Productos\bin\Debug\Productos.exe.config
+J:\UTN\Programacion.2018\ModelosParcial\Productos\Productos\bin\Debug\Productos.exe.config
