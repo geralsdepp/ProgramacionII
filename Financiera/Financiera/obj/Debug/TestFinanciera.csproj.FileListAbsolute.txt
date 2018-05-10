@@ -1,0 +1,8 @@
+C:\Users\Geral\Documents\Proyectos\Financiera\Financiera\bin\Debug\Financiera.exe.config
+C:\Users\Geral\Documents\Proyectos\Financiera\Financiera\bin\Debug\Financiera.exe
+C:\Users\Geral\Documents\Proyectos\Financiera\Financiera\bin\Debug\Financiera.pdb
+C:\Users\Geral\Documents\Proyectos\Financiera\Financiera\bin\Debug\EntidadFinanciera.dll
+C:\Users\Geral\Documents\Proyectos\Financiera\Financiera\bin\Debug\EntidadFinanciera.pdb
+C:\Users\Geral\Documents\Proyectos\Financiera\Financiera\obj\Debug\TestFinanciera.csprojResolveAssemblyReference.cache
+C:\Users\Geral\Documents\Proyectos\Financiera\Financiera\obj\Debug\Financiera.exe
+C:\Users\Geral\Documents\Proyectos\Financiera\Financiera\obj\Debug\Financiera.pdb
