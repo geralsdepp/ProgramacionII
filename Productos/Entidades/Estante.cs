@@ -132,46 +132,48 @@ namespace Entidades
         public static Estante operator -(Estante e, Producto prod)
         {
             if (e == prod)
-            {
-                //Error me borra la primera aparicion que no corresponde
-                //con el prod pasado
-                e.GetProductos().Remove(prod);
+            {                             
+                e.GetProductos().Remove(prod);    
             }
             
             return e;
         }
         public static Estante operator -(Estante e, Producto.ETipoProducto tipo)
         {
-            for (int i = 0; i < e._productos.Count; i++)
+            for (int i = 0; i < e.GetProductos().Count; i++)
             {
                 switch (tipo)
                 {
                     case Producto.ETipoProducto.Galletita:
-                        if (e._productos[i] is Galletita)
+                        if (e.GetProductos()[i] is Galletita)
                         {
-                            e -= e._productos[i];
+                            Galletita g = (Galletita)e.GetProductos()[i];
+                            e -= g;
                         }
                         break;
                     case Producto.ETipoProducto.Gaseosa:
-                        if (e._productos[i] is Gaseosa)
+                        if (e.GetProductos()[i] is Gaseosa)
                         {
-                            e -= e._productos[i];
+                            Gaseosa g = (Gaseosa)e.GetProductos()[i];
+                            e -= g;
                         }
                         break;
                     case Producto.ETipoProducto.Jugo:
-                        if (e._productos[i] is Jugo)
+                        if (e.GetProductos()[i] is Jugo)
                         {
-                            e -= e._productos[i];
+                            Jugo j = (Jugo)e.GetProductos()[i];
+                            e -= j;
                         }
                         break;
                     case Producto.ETipoProducto.Harina:
-                        if (e._productos[i] is Harina)
+                        if (e.GetProductos()[i] is Harina)
                         {
-                            e -= e._productos[i];
+                            Harina h = (Harina)e.GetProductos()[i];
+                            e -= h;
                         }
                         break;
                     case Producto.ETipoProducto.Todos:
-                        e -= e._productos[i];
+                        e -= e.GetProductos()[i];
                         break;
                 }
             }

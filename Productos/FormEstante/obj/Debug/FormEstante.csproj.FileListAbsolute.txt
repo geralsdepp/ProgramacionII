@@ -1,0 +1,11 @@
+J:\UTN\Programacion.2018\ModelosParcial\Productos\FormEstante\bin\Debug\FormEstante.exe.config
+J:\UTN\Programacion.2018\ModelosParcial\Productos\FormEstante\bin\Debug\FormEstante.exe
+J:\UTN\Programacion.2018\ModelosParcial\Productos\FormEstante\bin\Debug\FormEstante.pdb
+J:\UTN\Programacion.2018\ModelosParcial\Productos\FormEstante\bin\Debug\Entidades.dll
+J:\UTN\Programacion.2018\ModelosParcial\Productos\FormEstante\bin\Debug\Entidades.pdb
+J:\UTN\Programacion.2018\ModelosParcial\Productos\FormEstante\obj\Debug\FormEstante.csprojResolveAssemblyReference.cache
+J:\UTN\Programacion.2018\ModelosParcial\Productos\FormEstante\obj\Debug\FormEstante.FormEstante.resources
+J:\UTN\Programacion.2018\ModelosParcial\Productos\FormEstante\obj\Debug\FormEstante.Properties.Resources.resources
+J:\UTN\Programacion.2018\ModelosParcial\Productos\FormEstante\obj\Debug\FormEstante.csproj.GenerateResource.Cache
+J:\UTN\Programacion.2018\ModelosParcial\Productos\FormEstante\obj\Debug\FormEstante.exe
+J:\UTN\Programacion.2018\ModelosParcial\Productos\FormEstante\obj\Debug\FormEstante.pdb

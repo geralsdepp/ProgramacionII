@@ -30,7 +30,7 @@ namespace Entidades
         }
         public override bool Equals(object obj)
         {
-            return obj is Producto;
+            return obj.GetType() == this.GetType();            
         }
         public static explicit operator int(Producto p)
         {
