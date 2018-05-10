@@ -1,0 +1,8 @@
+E:\UTN\Programacion.2018\ModelosParcial\Mascotas\Mascotas\bin\Debug\Mascotas.exe.config
+E:\UTN\Programacion.2018\ModelosParcial\Mascotas\Mascotas\obj\Debug\Mascotas.csprojResolveAssemblyReference.cache
+J:\UTN\Programacion.2018\ModelosParcial\Mascotas\Mascotas\bin\Debug\Mascotas.exe.config
+J:\UTN\Programacion.2018\ModelosParcial\Mascotas\Mascotas\obj\Debug\Mascotas.csprojResolveAssemblyReference.cache
+J:\UTN\Programacion.2018\ModelosParcial\Mascotas\Mascotas\bin\Debug\Mascotas.exe
+J:\UTN\Programacion.2018\ModelosParcial\Mascotas\Mascotas\bin\Debug\Mascotas.pdb
+J:\UTN\Programacion.2018\ModelosParcial\Mascotas\Mascotas\obj\Debug\Mascotas.exe
+J:\UTN\Programacion.2018\ModelosParcial\Mascotas\Mascotas\obj\Debug\Mascotas.pdb
