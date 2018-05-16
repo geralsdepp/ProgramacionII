@@ -1,0 +1,10 @@
+D:\VisualStudio\Meza.Geraldine\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\VisualStudio\Meza.Geraldine\Entidades\bin\Debug\Entidades.dll
+D:\VisualStudio\Meza.Geraldine\Entidades\bin\Debug\Entidades.pdb
+D:\VisualStudio\Meza.Geraldine\Entidades\obj\Debug\Entidades.dll
+D:\VisualStudio\Meza.Geraldine\Entidades\obj\Debug\Entidades.pdb
+E:\UTN\Programacion.2018\ModelosParcial\Meza.Geraldine\Entidades\bin\Debug\Entidades.dll
+E:\UTN\Programacion.2018\ModelosParcial\Meza.Geraldine\Entidades\bin\Debug\Entidades.pdb
+E:\UTN\Programacion.2018\ModelosParcial\Meza.Geraldine\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+E:\UTN\Programacion.2018\ModelosParcial\Meza.Geraldine\Entidades\obj\Debug\Entidades.dll
+E:\UTN\Programacion.2018\ModelosParcial\Meza.Geraldine\Entidades\obj\Debug\Entidades.pdb

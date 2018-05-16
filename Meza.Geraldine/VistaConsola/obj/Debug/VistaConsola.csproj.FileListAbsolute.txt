@@ -1,0 +1,8 @@
+D:\VisualStudio\Meza.Geraldine\VistaConsola\bin\Debug\VistaConsola.exe.config
+D:\VisualStudio\Meza.Geraldine\VistaConsola\bin\Debug\VistaConsola.exe
+D:\VisualStudio\Meza.Geraldine\VistaConsola\bin\Debug\VistaConsola.pdb
+D:\VisualStudio\Meza.Geraldine\VistaConsola\bin\Debug\Entidades.dll
+D:\VisualStudio\Meza.Geraldine\VistaConsola\bin\Debug\Entidades.pdb
+D:\VisualStudio\Meza.Geraldine\VistaConsola\obj\Debug\VistaConsola.csprojResolveAssemblyReference.cache
+D:\VisualStudio\Meza.Geraldine\VistaConsola\obj\Debug\VistaConsola.exe
+D:\VisualStudio\Meza.Geraldine\VistaConsola\obj\Debug\VistaConsola.pdb
