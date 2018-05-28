@@ -1,0 +1,9 @@
+G:\UTN\Ejercicio30\Excepciones\bin\Debug\Excepciones.dll
+G:\UTN\Ejercicio30\Excepciones\bin\Debug\Excepciones.pdb
+G:\UTN\Ejercicio30\Excepciones\obj\Debug\Excepciones.csprojResolveAssemblyReference.cache
+G:\UTN\Ejercicio30\Excepciones\obj\Debug\Excepciones.dll
+G:\UTN\Ejercicio30\Excepciones\obj\Debug\Excepciones.pdb
+E:\UTN\Ejercicio30\Excepciones\bin\Debug\Excepciones.dll
+E:\UTN\Ejercicio30\Excepciones\bin\Debug\Excepciones.pdb
+E:\UTN\Ejercicio30\Excepciones\obj\Debug\Excepciones.dll
+E:\UTN\Ejercicio30\Excepciones\obj\Debug\Excepciones.pdb

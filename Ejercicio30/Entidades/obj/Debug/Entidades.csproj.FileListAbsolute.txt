@@ -1,0 +1,11 @@
+D:\VisualStudio\Ejercicio30\Entidades\bin\Debug\Entidades.dll
+D:\VisualStudio\Ejercicio30\Entidades\bin\Debug\Entidades.pdb
+D:\VisualStudio\Ejercicio30\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\VisualStudio\Ejercicio30\Entidades\obj\Debug\Entidades.dll
+D:\VisualStudio\Ejercicio30\Entidades\obj\Debug\Entidades.pdb
+G:\UTN\Ejercicio30\Entidades\bin\Debug\Entidades.dll
+G:\UTN\Ejercicio30\Entidades\bin\Debug\Entidades.pdb
+G:\UTN\Ejercicio30\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+G:\UTN\Ejercicio30\Entidades\obj\Debug\Entidades.dll
+G:\UTN\Ejercicio30\Entidades\obj\Debug\Entidades.pdb
+E:\UTN\Ejercicio30\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
